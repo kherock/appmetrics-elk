@@ -1,6 +1,6 @@
 {
   "name": "appmetrics-elk",
-  "version": "1.0.2",
+  "version": "4.0.0-beta.0",
   "engines": {
     "node": ">=6"
   },
