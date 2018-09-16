@@ -259,7 +259,7 @@ You can also create your own charts using the "Visualize" tab.
 The Node Application Metrics to ELK Connector is licensed using an Apache v2.0 License.
 
 ### Version
-The current version is 4.0.0-beta.0
+The current version is 4.0.0-beta.1
 
 4.0.0 Support Elasticsearch 6 and newer Node.js versions  
 1.0.2 Support for new monitoring data  
